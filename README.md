@@ -18,8 +18,6 @@ Um pequeno projeto realizado durante as aulas de Javascript básico do professor
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * HTML
 * CSS
 * Javascript
